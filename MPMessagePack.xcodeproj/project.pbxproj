@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		001392211B0418EF0082DEA8 /* cmp.c in Sources */ = {isa = PBXBuildFile; fileRef = 00FB32E119661B0A0060AF33 /* cmp.c */; };
-		001392221B0418EF0082DEA8 /* cmp.h in Headers */ = {isa = PBXBuildFile; fileRef = 00FB32E219661B0A0060AF33 /* cmp.h */; };
+		001392221B0418EF0082DEA8 /* cmp.h in Headers */ = {isa = PBXBuildFile; fileRef = 00FB32E219661B0A0060AF33 /* cmp.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		001392231B0418EF0082DEA8 /* MPMessagePackWriter.h in Headers */ = {isa = PBXBuildFile; fileRef = 00FB32CA19661A860060AF33 /* MPMessagePackWriter.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		001392241B0418EF0082DEA8 /* MPMessagePackWriter.m in Sources */ = {isa = PBXBuildFile; fileRef = 00FB32CC19661A870060AF33 /* MPMessagePackWriter.m */; };
 		001392251B0418EF0082DEA8 /* MPMessagePackReader.h in Headers */ = {isa = PBXBuildFile; fileRef = 006555AB1966276400288AE7 /* MPMessagePackReader.h */; settings = {ATTRIBUTES = (Public, ); }; };
